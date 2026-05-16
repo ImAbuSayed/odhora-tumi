@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/odhora-tumi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Odhora Tumi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/odhora-tumi/) |
+| **Get License** | [Secure Licensing Rights for Odhora Tumi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/odhora-tumi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ef9e8e515a1afe0a6ac61a6e83a6f3ed8bd8c19d8da2e729cfc8c658a21afee4` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
